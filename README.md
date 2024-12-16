@@ -27,4 +27,3 @@ Communication: Excellent written and verbal communication skills
       Improved UI/UX using HTML, CSS, JavaScript, and multi-select filters.
       Deployed frontend with Netlify and backend with Render.
       
-📊 Contribution Stats
