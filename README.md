@@ -30,30 +30,20 @@ GitHub Stats
 
 
 💻 Skills & Tools
-Languages
-
-
-
-
-Technologies
-
-
-
-Databases
-
-
-
-DevOps Tools
+Languages:  Java, JavaScript, python, TypeScript
+Technologies : Spring boot, React, Angular, Jupter Notebook.
+Databases: Mysql, Postgresql, MongoDb.
+DevOps Tools: CI/CD integration with docker, jenkins.
 
 
 🌟 Pinned Projects
-🔹 Truist Banking Project
-Developed responsive web apps using Angular and integrated backend services via Spring Boot REST APIs.
-Deployed microservices architecture on AWS ECS containers.
+🔹 Truist Banking Project:
+     Developed responsive web apps using Angular and integrated backend services via Spring Boot REST APIs.
+     Deployed microservices architecture on AWS ECS containers.
 🔹 IRIS & NASA Vehicle Application
-Designed and deployed scalable applications on GCP Compute Engine.
-Generated XLS sheets for over 1 lakh vehicles for reporting.
+     Designed and deployed scalable applications on GCP Compute Engine.
+     Generated XLS sheets for over 1 lakh vehicles for reporting.
 🔹 QTRIP Dynamic Web App
-Improved UI/UX using HTML, CSS, JavaScript, and multi-select filters.
-Deployed frontend with Netlify and backend with Render.
+      Improved UI/UX using HTML, CSS, JavaScript, and multi-select filters.
+      Deployed frontend with Netlify and backend with Render.
 📊 Contribution Stats
