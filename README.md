@@ -1,37 +1,16 @@
 ## Hi there 👋, I'm Mukul Vasanth
-I am a passionate Java Full Stack Developer with 5.5 years of experience building scalable and innovative software solutions using Spring Boot, Microservices, Angular, and Cloud Platforms (AWS & GCP). I have a proven track record of improving system performance and reducing application load times by 80%.
+I am a passionate Java Full Stack Developer with 5.5 years of professional experience. I constantly seek new challenges and opportunities to grow. Throughout my career, I have demonstrated a strong work ethic, excellent time management skills, and the ability to thrive in fast-paced environments. I aim to leverage my skills and knowledge to contribute to a dynamic and innovative organization, where I can continue to learn and make a positive impact.
 
-💼 About Me
+💻 Skills
+Programming Languages: Java, JavaScript, Python (Basics)
 
-🔭 Current Role: Technology Analyst at Infosys
+Web Development: React, HTML, CSS, Angular
 
-🚀 Experienced in: Java, Angular, AWS, Spring Boot, and Microservices
+Cloud Computing: AWS, GCP
 
-🏆 Achievements: Reduced company project costs by 60% and application load times by 80%
+DevOps: Docker, Jenkins, GitLab CI/CD
 
-🌱 Currently Learning: Advanced System Design and MLOps
-
-🛠 Certifications:
-
-Infosys Insta Award for excellent deliverables
-
-TCS Star Performance Award
-
-CRIO Full Stack Fellowship (React + Spring Boot)
-
-
-GitHub Stats
-
-
-
-💻 Skills & Tools
-Languages:  Java, JavaScript, python, TypeScript.
-
-Technologies : Spring boot, React, Angular, Jupter Notebook.
-
-Databases: Mysql, Postgresql, MongoDb.
-
-DevOps Tools: CI/CD integration with docker, jenkins.
+Communication: Excellent written and verbal communication skills
 
 
 🌟 Pinned Projects
