@@ -1,5 +1,5 @@
 ## Hi there 👋, I'm Mukul Vasanth
-I am a passionate Java Full Stack Developer with 5.7 years of professional experience. I constantly seek new challenges and opportunities to grow. Throughout my career, I have demonstrated a strong work ethic, excellent time management skills, and the ability to thrive in fast-paced environments. I aim to leverage my skills and knowledge to contribute to a dynamic and innovative organization, where I can continue to learn and make a positive impact.
+I am a passionate Java Full Stack Developer with 4.5 years of professional experience. I constantly seek new challenges and opportunities to grow. Throughout my career, I have demonstrated a strong work ethic, excellent time management skills, and the ability to thrive in fast-paced environments. I aim to leverage my skills and knowledge to contribute to a dynamic and innovative organization, where I can continue to learn and make a positive impact.
 
 💻 Skills
 Programming Languages: Java, JavaScript, Python (Basics)
